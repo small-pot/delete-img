@@ -1,0 +1,15 @@
+{
+  "name": "imgslice",
+  "version": "1.0.0",
+  "description": "为项目删除多余的图片文件",
+  "main": "server.js",
+  "dependencies": {
+    "glob": "^7.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "small-pot",
+  "license": "ISC"
+}
